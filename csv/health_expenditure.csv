@@ -1,0 +1,193 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,NIU,Niue,Year,2019,true,,,,,,,,,,,,,1012,,,,,,"1,012",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,POL,Poland,Year,2019,true,,,,,,,,,,,,,1014,,,,,,"1,014",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,CUB,Cuba,Year,2019,true,,,,,,,,,,,,,1032,,,,,,"1,032",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,HRV,Croatia,Year,2019,true,,,,,,,,,,,,,1040,,,,,,"1,040",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2019,true,,,,,,,,,,,,,1049,,,,,,"1,049",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,HUN,Hungary,Year,2019,true,,,,,,,,,,,,,1062,,,,,,"1,062",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2019,true,,,,,,,,,,,,,1088,,,,,,"1,088",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,BRB,Barbados,Year,2019,true,,,,,,,,,,,,,1143,,,,,,"1,143",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,LVA,Latvia,Year,2019,true,,,,,,,,,,,,,1167,,,,,,"1,167",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,true,,,,,,,,,,,,,1168,,,,,,"1,168",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,PAN,Panama,Year,2019,true,,,,,,,,,,,,,1193,,,,,,"1,193",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,true,,,,,,,,,,,,,1316,,,,,,"1,316",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2019,true,,,,,,,,,,,,,1342,,,,,,"1,342",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2019,true,,,,,,,,,,,,,1370,,,,,,"1,370",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,CHL,Chile,Year,2019,true,,,,,,,,,,,,,1376,,,,,,"1,376",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,GRC,Greece,Year,2019,true,,,,,,,,,,,,,1501,,,,,,"1,501",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,EST,Estonia,Year,2019,true,,,,,,,,,,,,,1599,,,,,,"1,599",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,URY,Uruguay,Year,2019,true,,,,,,,,,,,,,1661,,,,,,"1,661",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2019,true,,,,,,,,,,,,,1759,,,,,,"1,759",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2019,true,,,,,,,,,,,,,1807,,,,,,"1,807",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,true,,,,,,,,,,,,,1843,,,,,,"1,843",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,CZE,Czechia,Year,2019,true,,,,,,,,,,,,,1844,,,,,,"1,844",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2019,true,,,,,,,,,,,,,1996,,,,,,"1,996",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,USA,United States of America,Year,2019,true,,,,,,,,,,,,,10921,,,,,,"10,921",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,true,,,,,,,,,,,,,103,,,,,,103,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,true,,,,,,,,,,,,,104.3,,,,,,104.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,true,,,,,,,,,,,,,108.5,,,,,,108.5,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,true,,,,,,,,,,,,,111.9,,,,,,111.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,true,,,,,,,,,,,,,113.3,,,,,,113.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,true,,,,,,,,,,,,,116,,,,,,116,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,true,,,,,,,,,,,,,120.1,,,,,,120.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2019,true,,,,,,,,,,,,,124.2,,,,,,124.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,true,,,,,,,,,,,,,142.1,,,,,,142.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,true,,,,,,,,,,,,,149.8,,,,,,149.8,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,true,,,,,,,,,,,,,160.7,,,,,,160.7,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2019,true,,,,,,,,,,,,,160.8,,,,,,160.8,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2019,true,,,,,,,,,,,,,163.4,,,,,,163.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2019,true,,,,,,,,,,,,,172.3,,,,,,172.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2019,true,,,,,,,,,,,,,174.2,,,,,,174.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,true,,,,,,,,,,,,,177.9,,,,,,177.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2019,true,,,,,,,,,,,,,180.7,,,,,,180.7,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,HND,Honduras,Year,2019,true,,,,,,,,,,,,,187.6,,,,,,187.6,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2019,true,,,,,,,,,,,,,19.85,,,,,,19.85,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,true,,,,,,,,,,,,,193.1,,,,,,193.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2019,true,,,,,,,,,,,,,2005,,,,,,"2,005",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2019,true,,,,,,,,,,,,,2219,,,,,,"2,219",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,PRT,Portugal,Year,2019,true,,,,,,,,,,,,,2221,,,,,,"2,221",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2019,true,,,,,,,,,,,,,2356,,,,,,"2,356",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,MLT,Malta,Year,2019,true,,,,,,,,,,,,,2532,,,,,,"2,532",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,true,,,,,,,,,,,,,2625,,,,,,"2,625",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2019,true,,,,,,,,,,,,,2633,,,,,,"2,633",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,ESP,Spain,Year,2019,true,,,,,,,,,,,,,2711,,,,,,"2,711",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,AND,Andorra,Year,2019,true,,,,,,,,,,,,,2744,,,,,,"2,744",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,ITA,Italy,Year,2019,true,,,,,,,,,,,,,2906,,,,,,"2,906",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,MCO,Monaco,Year,2019,true,,,,,,,,,,,,,2906,,,,,,"2,906",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,BDI,Burundi,Year,2019,true,,,,,,,,,,,,,20.57,,,,,,20.57,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,true,,,,,,,,,,,,,20.57,,,,,,20.57,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,GAB,Gabon,Year,2019,true,,,,,,,,,,,,,215,,,,,,215,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2019,true,,,,,,,,,,,,,22.64,,,,,,22.64,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2019,true,,,,,,,,,,,,,233.1,,,,,,233.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,true,,,,,,,,,,,,,235.7,,,,,,235.7,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2019,true,,,,,,,,,,,,,242.4,,,,,,242.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2019,true,,,,,,,,,,,,,245.9,,,,,,245.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2019,true,,,,,,,,,,,,,248.1,,,,,,248.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,DZA,Algeria,Year,2019,true,,,,,,,,,,,,,248.2,,,,,,248.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2019,true,,,,,,,,,,,,,25.27,,,,,,25.27,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2019,true,,,,,,,,,,,,,253.3,,,,,,253.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,true,,,,,,,,,,,,,254.9,,,,,,254.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2019,true,,,,,,,,,,,,,26.74,,,,,,26.74,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2019,true,,,,,,,,,,,,,264.1,,,,,,264.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2019,true,,,,,,,,,,,,,271,,,,,,271,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2019,true,,,,,,,,,,,,,271.9,,,,,,271.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2019,true,,,,,,,,,,,,,273,,,,,,273,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2019,true,,,,,,,,,,,,,284.3,,,,,,284.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,BEN,Benin,Year,2019,true,,,,,,,,,,,,,29.13,,,,,,29.13,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,GMB,Gambia,Year,2019,true,,,,,,,,,,,,,29.73,,,,,,29.73,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,TCD,Chad,Year,2019,true,,,,,,,,,,,,,29.85,,,,,,29.85,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,GEO,Georgia,Year,2019,true,,,,,,,,,,,,,291.1,,,,,,291.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,BLZ,Belize,Year,2019,true,,,,,,,,,,,,,293.4,,,,,,293.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,true,,,,,,,,,,,,,296.2,,,,,,296.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,SMR,San Marino,Year,2019,true,,,,,,,,,,,,,3051,,,,,,"3,051",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,ISR,Israel,Year,2019,true,,,,,,,,,,,,,3456,,,,,,"3,456",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,MWI,Malawi,Year,2019,true,,,,,,,,,,,,,30.4,,,,,,30.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2019,true,,,,,,,,,,,,,300.1,,,,,,300.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,NER,Niger,Year,2019,true,,,,,,,,,,,,,31.4,,,,,,31.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,UGA,Uganda,Year,2019,true,,,,,,,,,,,,,32.41,,,,,,32.41,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,GUY,Guyana,Year,2019,true,,,,,,,,,,,,,325.9,,,,,,325.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2019,true,,,,,,,,,,,,,327.4,,,,,,327.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,true,,,,,,,,,,,,,334,,,,,,334,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2019,true,,,,,,,,,,,,,338.8,,,,,,338.8,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,MLI,Mali,Year,2019,true,,,,,,,,,,,,,34.28,,,,,,34.28,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2019,true,,,,,,,,,,,,,354.8,,,,,,354.8,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2019,true,,,,,,,,,,,,,37.2,,,,,,37.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,PER,Peru,Year,2019,true,,,,,,,,,,,,,370.1,,,,,,370.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2019,true,,,,,,,,,,,,,388.4,,,,,,388.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2019,true,,,,,,,,,,,,,39.46,,,,,,39.46,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,true,,,,,,,,,,,,,39.5,,,,,,39.5,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,TUR,Turkey,Year,2019,true,,,,,,,,,,,,,396.5,,,,,,396.5,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,BLR,Belarus,Year,2019,true,,,,,,,,,,,,,399.4,,,,,,399.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2019,true,,,,,,,,,,,,,4211,,,,,,"4,211",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2019,true,,,,,,,,,,,,,4313,,,,,,"4,313",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2019,true,,,,,,,,,,,,,4360,,,,,,"4,360",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,FIN,Finland,Year,2019,true,,,,,,,,,,,,,4450,,,,,,"4,450",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,FRA,France,Year,2019,true,,,,,,,,,,,,,4492,,,,,,"4,492",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,BEL,Belgium,Year,2019,true,,,,,,,,,,,,,4960,,,,,,"4,960",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,true,,,,,,,,,,,,,40.34,,,,,,40.34,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2019,true,,,,,,,,,,,,,415.2,,,,,,415.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,true,,,,,,,,,,,,,42.34,,,,,,42.34,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,NAM,Namibia,Year,2019,true,,,,,,,,,,,,,427.3,,,,,,427.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,GIN,Guinea,Year,2019,true,,,,,,,,,,,,,43.04,,,,,,43.04,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,true,,,,,,,,,,,,,436.6,,,,,,436.6,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2019,true,,,,,,,,,,,,,436.9,,,,,,436.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,DMA,Dominica,Year,2019,true,,,,,,,,,,,,,440.2,,,,,,440.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,true,,,,,,,,,,,,,45.86,,,,,,45.86,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,true,,,,,,,,,,,,,46.16,,,,,,46.16,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,true,,,,,,,,,,,,,46.93,,,,,,46.93,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2019,true,,,,,,,,,,,,,470.4,,,,,,470.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,COG,Congo,Year,2019,true,,,,,,,,,,,,,48.56,,,,,,48.56,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,BWA,Botswana,Year,2019,true,,,,,,,,,,,,,481.5,,,,,,481.5,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2019,true,,,,,,,,,,,,,486.5,,,,,,486.5,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,true,,,,,,,,,,,,,491.1,,,,,,491.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,COL,Colombia,Year,2019,true,,,,,,,,,,,,,495.3,,,,,,495.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,CAN,Canada,Year,2019,true,,,,,,,,,,,,,5048,,,,,,"5,048",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,AUT,Austria,Year,2019,true,,,,,,,,,,,,,5242,,,,,,"5,242",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2019,true,,,,,,,,,,,,,5335,,,,,,"5,335",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2019,true,,,,,,,,,,,,,5427,,,,,,"5,427",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,IRL,Ireland,Year,2019,true,,,,,,,,,,,,,5429,,,,,,"5,429",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,DEU,Germany,Year,2019,true,,,,,,,,,,,,,5440,,,,,,"5,440",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,SWE,Sweden,Year,2019,true,,,,,,,,,,,,,5671,,,,,,"5,671",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2019,true,,,,,,,,,,,,,500,,,,,,500,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2019,true,,,,,,,,,,,,,502.2,,,,,,502.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,TGO,Togo,Year,2019,true,,,,,,,,,,,,,51.16,,,,,,51.16,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2019,true,,,,,,,,,,,,,51.4,,,,,,51.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,LBR,Liberia,Year,2019,true,,,,,,,,,,,,,52.56,,,,,,52.56,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,ARM,Armenia,Year,2019,true,,,,,,,,,,,,,524,,,,,,524,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,true,,,,,,,,,,,,,53.25,,,,,,53.25,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,GRD,Grenada,Year,2019,true,,,,,,,,,,,,,534.3,,,,,,534.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,CHN,China,Year,2019,true,,,,,,,,,,,,,535.1,,,,,,535.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2019,true,,,,,,,,,,,,,54,,,,,,54,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,MEX,Mexico,Year,2019,true,,,,,,,,,,,,,540.4,,,,,,540.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2019,true,,,,,,,,,,,,,546.7,,,,,,546.7,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2019,true,,,,,,,,,,,,,553.8,,,,,,553.8,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,HTI,Haiti,Year,2019,true,,,,,,,,,,,,,56.99,,,,,,56.99,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2019,true,,,,,,,,,,,,,57.88,,,,,,57.88,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,true,,,,,,,,,,,,,59.1,,,,,,59.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,DNK,Denmark,Year,2019,true,,,,,,,,,,,,,6003,,,,,,"6,003",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2019,true,,,,,,,,,,,,,6221,,,,,,"6,221",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,ISL,Iceland,Year,2019,true,,,,,,,,,,,,,6275,,,,,,"6,275",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,true,,,,,,,,,,,,,60.02,,,,,,60.02,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,true,,,,,,,,,,,,,61.81,,,,,,61.81,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2019,true,,,,,,,,,,,,,61.87,,,,,,61.87,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,SUR,Suriname,Year,2019,true,,,,,,,,,,,,,619.3,,,,,,619.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,true,,,,,,,,,,,,,62.14,,,,,,62.14,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,true,,,,,,,,,,,,,62.58,,,,,,62.58,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,true,,,,,,,,,,,,,624.7,,,,,,624.7,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,IND,India,Year,2019,true,,,,,,,,,,,,,63.75,,,,,,63.75,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,SRB,Serbia,Year,2019,true,,,,,,,,,,,,,641,,,,,,641,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,true,,,,,,,,,,,,,65.08,,,,,,65.08,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,true,,,,,,,,,,,,,65.81,,,,,,65.81,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2019,true,,,,,,,,,,,,,653.4,,,,,,653.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2019,true,,,,,,,,,,,,,662.2,,,,,,662.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2019,true,,,,,,,,,,,,,663.1,,,,,,663.1,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2019,true,,,,,,,,,,,,,664.3,,,,,,664.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2019,true,,,,,,,,,,,,,671.6,,,,,,671.6,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2019,true,,,,,,,,,,,,,68.22,,,,,,68.22,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2019,true,,,,,,,,,,,,,686,,,,,,686,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2019,true,,,,,,,,,,,,,69.32,,,,,,69.32,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2019,true,,,,,,,,,,,,,697.9,,,,,,697.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,AGO,Angola,Year,2019,true,,,,,,,,,,,,,71.33,,,,,,71.33,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2019,true,,,,,,,,,,,,,71.47,,,,,,71.47,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,COM,Comoros,Year,2019,true,,,,,,,,,,,,,72.32,,,,,,72.32,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2019,true,,,,,,,,,,,,,735.2,,,,,,735.2,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,ROU,Romania,Year,2019,true,,,,,,,,,,,,,738.6,,,,,,738.6,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2019,true,,,,,,,,,,,,,75.09,,,,,,75.09,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,GHA,Ghana,Year,2019,true,,,,,,,,,,,,,75.28,,,,,,75.28,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2019,true,,,,,,,,,,,,,760.3,,,,,,760.3,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,NOR,Norway,Year,2019,true,,,,,,,,,,,,,8007,,,,,,"8,007",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,KEN,Kenya,Year,2019,true,,,,,,,,,,,,,83.41,,,,,,83.41,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2019,true,,,,,,,,,,,,,839.8,,,,,,839.8,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,BRA,Brazil,Year,2019,true,,,,,,,,,,,,,853.4,,,,,,853.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2019,true,,,,,,,,,,,,,854.4,,,,,,854.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2019,true,,,,,,,,,,,,,9666,,,,,,"9,666",,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2019,true,,,,,,,,,,,,,92.67,,,,,,92.67,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2019,true,,,,,,,,,,,,,921.6,,,,,,921.6,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2019,true,,,,,,,,,,,,,940.4,,,,,,940.4,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,AMR,Americas,Country,ARG,Argentina,Year,2019,true,,,,,,,,,,,,,946,,,,,,946,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2019,true,,,,,,,,,,,,,972.6,,,,,,972.6,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,true,,,,,,,,,,,,,98.57,,,,,,98.57,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EUR,Europe,Country,ALB,Albania,Year,2018,true,,,,,,,,,,,,,274.9,,,,,,274.9,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,true,,,,,,,,,,,,,73.18,,,,,,73.18,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2012,true,,,,,,,,,,,,,69.83,,,,,,69.83,,,EN,2021-12-14T23:00:00.000Z
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2011,true,,,,,,,,,,,,,309.9,,,,,,309.9,,,EN,2021-12-14T23:00:00.000Z
