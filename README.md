@@ -16,3 +16,9 @@ La actividad ha sido realizada por **Iván Maseda Zurdo**.
 ## Fichero del código fuente
 
 **src/PRAC_2_Ivan_Maseda_zurdo.ipynb**: este fichero contiene el código en lenguaje Python para la carga de los datasets original, la carga de librerías, genera los graficos requeridos.
+
+## Nota
+
+El archivo base para la serie temporal no ha podido ser cargado debido al tamaño del mismo, pero se aporta el enlace al repositorio en GitHub en el que podemos encontrarlo:  
+
+https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
