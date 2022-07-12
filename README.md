@@ -4,7 +4,7 @@ PRAC 2 de la asignatura Visualización de datos -UOC
 
 ## Descripción
 
-En este repositorio pueden encontrar un archivo en lenguaje de programación Python que genera las visualizaciones requeridas en la PRAC 2. La librería empleada para crear las visualizaciones es plotly:
+En este repositorio pueden encontrar un archivo en lenguaje de programación Python que genera una serie de visualizaciones relqacionadas con lapandemia de Covid-19 en el mundo, datos de la evolución de la misma y datos socioeconómicos y sanitarios de distintos países previos a dicha pandemis, relacionandolos con el impacto en la salud de los ciudadanos. La librería empleada para crear las visualizaciones es plotly:
 https://plotly.com/python/
 
 Esta práctica se ha realizado bajo el contexto de la asignatura _Visualización de datos_, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya.
